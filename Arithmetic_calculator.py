@@ -1,3 +1,5 @@
+# This calculator performs addition, Subtraction, Multiplication, Division, Modulus type of operations on integer as well as real values.
+
 def add(x, y):
     return x + y
 
@@ -9,7 +11,7 @@ def multiply(x, y):
 
 def divide(x, y):
     return x / y
-def modulo(x,y):
+def modulus(x,y):
     return x % y
 
 print("*************Select operation.******************")
@@ -36,7 +38,7 @@ while True:
     elif choice == '4':
            print(num1, "/", num2, "=", divide(num1, num2))
     elif choice == '5':
-           print(num1, "%", num2, "=", modulo(num1, num2))
+           print(num1, "%", num2, "=", modulus(num1, num2))
 
     else:
        print("Invalid Input")
