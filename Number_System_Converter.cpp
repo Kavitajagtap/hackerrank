@@ -1,4 +1,9 @@
-// This number system converter  converts  3 number system to decimal.
+/*
+This number system converter  converts  3 number systems
+1-->Binary to Decimal
+2-->Octal to Decimal
+3-->Hexadecimal to Decimal
+*/
 #include <iostream>
 #include <string.h>
 #include <cmath>
