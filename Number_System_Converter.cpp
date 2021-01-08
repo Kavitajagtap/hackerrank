@@ -79,6 +79,7 @@ void hexadecimalDecimal(char q[20])
     }
     cout<<q<<" in decimal = "<<sum<<endl;
 }
+
 /*
 Output :-
 ******************** Convertor **************************
