@@ -42,3 +42,24 @@ while True:
 
     else:
        print("Invalid Input")
+    
+"""
+-------------------- Select operation -----------------------
+1.Add
+2.Subtract
+3.Multiply
+4.Divide
+
+Enter choice(1/2/3/4/5): 1
+Enter first number: 45
+Enter second number: 78
+45.0 + 78.0 = 123.0
+
+Enter choice(1/2/3/4/5): 4
+Enter first number: 55
+Enter second number: 5
+55.0 / 5.0 = 11.0
+
+Enter choice(1/2/3/4/5): 
+
+"""
